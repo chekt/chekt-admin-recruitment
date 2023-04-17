@@ -107,7 +107,7 @@ recruitment.kr@chekt.com
 
 ### Q. 이력서에 꼭 포함해야 하는 내용이 있나요?
 
-A. 특별한 정해진 형식과 규칙은 없습니다. reviewApplication() 함수를 참조 바랍니다.
+A. 특별한 정해진 형식과 규칙은 없습니다. 지원자님에 대해 저희가 알기 위한 자료이니, 최소한 지원자님이 어떤 분이시고, 어떤 연유로 지원을 하시게 되었는지 정도는 꼭 포함되면 좋겠습니다. reviewApplication() 함수를 참조 바랍니다.
 
 #### reviewApplication()
 
